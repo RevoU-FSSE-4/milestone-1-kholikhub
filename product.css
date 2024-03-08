@@ -84,6 +84,17 @@
   grid-row: 3/4;
 }
 
+@media only screen and (max-width: 1024px) {
+  .card > h3 {
+    font-size: 1em;
+  }
+
+  .card > p {
+    font-size: 0.8em;
+  }
+
+}
+
 @media only screen and (max-width: 768px) {
   .card > h3 {
     font-size: 0.9em;
@@ -96,7 +107,7 @@
 }
 
 @media only screen and (max-width: 425px) {
-  
+
 
   #product >h1 {
     font-size: 2em;
