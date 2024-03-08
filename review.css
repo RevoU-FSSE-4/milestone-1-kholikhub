@@ -1,6 +1,4 @@
 .container-slides {
-  display: flex;
-  flex-direction: wrap;
   display: grid;
   place-items: center;
   height: 700px;
@@ -83,5 +81,21 @@
   }
   50% {
     opacity: 0;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .card-review {
+    width: 40em;
+  }
+}
+
+@media only screen and (max-width: 425px) {
+  .card-review {
+    width: 24em;
+  }
+
+  .container-review > h1 {
+    font-size: 2em;
   }
 }

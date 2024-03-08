@@ -88,15 +88,49 @@ nav > ul > li > a {
 }
 
 .biodata > h1 {
-  font-size: 3em;
+  font-size: 4em;
 }
 
 .biodata > p {
-  font-size: 1.5em;
+  font-size: 1.6em;
 }
 
-@media only screen and (max-width: 600px) {
-  body {
-    background-color: red;
+@media only screen and (max-width: 768px) {
+  nav > ul > li > a{
+    font-size: 1em;
   }
+  
+  .biodata > h1 {
+    font-size: 2.4em;
+  }
+
+  .biodata > p {
+    font-size: 1.4em;
+  }
+
+}
+
+@media only screen and (max-width: 425px) {
+  .nav-logo {
+    width: 30px;
+    height: 30px;
+  }
+
+  nav > ul > li > a{
+    font-size: 13px;
+    margin: 6px 3px;
+  }
+
+  .container-biodata {
+    width: 90%;
+  }
+
+  .biodata > h1 {
+    font-size: 2.1em;
+  }
+
+  .biodata > p {
+    font-size: 1em;
+  }
+
 }
