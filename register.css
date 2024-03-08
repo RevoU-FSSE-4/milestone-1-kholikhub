@@ -1,17 +1,14 @@
-
-
 .form > h1 {
-    text-align: center;
-    font-size: 3em;
-  }
+  text-align: center;
+  font-size: 3em;
+}
 
 .container-form {
-    border-radius: 5px;
-    background-color: #ebdf40;
-    padding: 20px;
-    margin: 6em;
-  }
-  
+  border-radius: 5px;
+  background-color: #ebdf40;
+  padding: 20px;
+  margin: 6em;
+}
 
 input[type="text"],
 select,
