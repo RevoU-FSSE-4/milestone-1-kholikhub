@@ -14,12 +14,38 @@ Utuk Tampilannya bisa di lihat [di sini](https://kizfy.site/)
 
 ## Feature di Web ini
 
+#### 1. HOME
+
+![img](<Asset/image/readme/SS-README-1.png>)
+
+Jika klick logo dan home akan menuju ke halaman ini
+
+#### 2. PRODUCT
+
+![img](<Asset/image/readme/SS-README-2.png>)
+
+Untuk product ada 3 perubahan gambar dan penyusunan card menyesuaikan dengan resolusi layar
+
+#### 3. REVIEW
+
+![img](<Asset/image/readme/SS-README-3.png>)
+
+Untuk menu bukti pengiriman akan di arahkan langsung ke review
+Disini sudah di atur reviewnya berupa animasi slide show dengan infinite duration
+
+![img](<Asset/image/readme/SS-README-4.png>)
+
+Menu Regiser dan Login mengarah ke foem untuk di isi
+Sudah di sesuaikan dengan 3 mode mulai dari dekstop, mobile, dan low resolusion dengan perbedaan lebar form dan gambar
+
+---
 
 ## LANGKAH-LANGKAH DEPLOYMENT DAN CUSTOM DOMAIN
 
 ### - DEPLOYMENT MENGGUNAKAN NETLIFY
 
 #### 1. SIGNUP OR LOGIN AND IMPORT
+
 ![img](<Asset/image/readme/SS NETLIFY 1.png>)
 
 Ikuti langkah sesuai pada gambar di atas untuk mendaftar atau masuk ke akun anda
